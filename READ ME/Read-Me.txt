@@ -1,0 +1,20 @@
+From this folder transfer files to your Windows folder, otherwise the server wont work.
+
+USE VISUAL STUDIO
+
+From this VC folder transfer files to your VC folder, for example:
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.21.27702
+It could be insted of 2019, Enterprise, and 14.21.27702.
+
+Install "putty-64bit-0.73-installer.msi"
+
+Launch PuTTy (Start menu PuTTy will be called) make sure you do that:
+Host name (or IP address) : 127.0.0.1
+Port: 54000
+Connection type: Raw
+Saved Session: MultiChat
+
+Then you can press Save, so latter on you could choose from your MultiChar list and press load
+
+Start MultiThreadChat.sln, kompile it and play it.
+If everything was placed correctly then it will work and write "iniliazted mutex". Then through PuTTy Load MultiChat and press Open, and through the opened window you will be able to chat.
