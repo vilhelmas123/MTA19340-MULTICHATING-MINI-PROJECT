@@ -16,5 +16,5 @@ Saved Session: MultiChat
 
 Then you can press Save, so latter on you could choose from your MultiChar list and press load
 
-Start MultiThreadChat.sln, kompile it and play it.
+Start MultiThreadChat.sln, compile it and play it.
 If everything was placed correctly then it will work and write "iniliazted mutex". Then through PuTTy Load MultiChat and press Open, and through the opened window you will be able to chat.
